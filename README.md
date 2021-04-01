@@ -12,10 +12,6 @@ This is an Offline full chain exploit for PS4 firmware 6.72, 7.02 & 7.55 with 10
 
 Note: If you face crashes, Unplug your PS4, Click power button few times and then connect it back and Power on.
 
-## YouTube Channel
-
-https://www.youtube.com/channel/UCqP2nrYaECNZWfp7k4gbRBg
-
 ## Credits
 
 * [Fire30](https://github.com/Fire30/bad_hoist) for the WebKit exploit
